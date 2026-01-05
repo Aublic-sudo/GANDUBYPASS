@@ -1,4 +1,4 @@
 version=1.0.0
-status=on
+status=off
 status_on_message=enjoy...😉
 status_off_message=sorry...🥲
