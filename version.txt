@@ -1,4 +1,4 @@
 version=1.0.0
-status=off
-status_on_message=enjoy...😉
-status_off_message=sorry...🥲
+status=on
+status_on_message=Service is active. Enjoy your access.
+status_off_message=Service is temporarily disabled. Please try again later.
