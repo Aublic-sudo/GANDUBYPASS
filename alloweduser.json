@@ -1,9 +1,22 @@
 {
+  "demo": {
+    "note": "This is a demo entry",
+    "hwid": "DEMO-HWID-123456",
+    "name": "DemoUser",
+    "token": "DEMO-TOKEN-XXXX",
+    "expire": "2099-12-31"
+  },
   "users": [
     {
       "hwid": "2ef86667484db02eab4b3d5bdff52ca40c7bc5bc42b1c845b90460c02c96fe8d",
       "name": "rixie",
       "token": "RIXIE-ABCD-1234",
+      "expire": "2027-12-31"
+    },
+    {
+      "hwid": "a100afb9f5384857edfceab2201a288242705570e974e98074f59ea4c0e2d68c",
+      "name": "RixieHQ",
+      "token": "RIXIEHQ-hdhd-dhd5",
       "expire": "2027-12-31"
     }
   ]
